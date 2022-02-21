@@ -1,0 +1,10 @@
+﻿[*.vb]
+
+# BC42104: 在为变量赋值之前，变量已被使用
+dotnet_diagnostic.BC42104.severity = none
+
+# IDE0059: 不需要赋值
+dotnet_diagnostic.IDE0059.severity = none
+
+# IDE1006: 命名样式
+dotnet_diagnostic.IDE1006.severity = none
